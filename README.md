@@ -6,7 +6,8 @@ Note that most of the code is written by the professors of the class and the ass
 Step 1: Download Love2D from https://love2d.org/
 
 Opening the file in terminal:
-Love is the folder name
-(Documents/Code/Harvard_Game_Development_Class/Love) is the file's location/path
+Download the folder for the game you want to play and copy the path name of the folder
+Note that in the example below Love is the folder name
+(Documents/Code/Harvard_Game_Development_Class/Love) is the file's path name
 
 open -n -a love Documents/Code/Harvard_Game_Development_Class/Love
